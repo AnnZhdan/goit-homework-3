@@ -80,7 +80,7 @@ a {
   gap: 40px;
   text-decoration: none;
   padding: 24px 0px;
-} 
+}
 
 .nav-list a {
   color: var(--primary-dark-color);
@@ -120,7 +120,7 @@ a {
   padding: 188px 0;
 }
 
-.hero-container{
+.hero-container {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -160,7 +160,7 @@ a {
 }
 
 /*achievments*/
-.priorities{
+.priorities {
   visibility: hidden;
   margin: 0;
 }
@@ -310,12 +310,12 @@ a {
 
 /*Work examples*/
 
-.team-cards img {
+.projects img {
   display: block;
 }
 
-.card-footer h3 p {
-  border: 1px solid #E7E9FC; 
+.card-footer {
+  border: 1px solid #e7e9fc;
   padding: 32px 0 32px 16px;
 }
 .work-examples {
@@ -344,7 +344,6 @@ a {
 
 .projects-item {
   margin-bottom: 48px;
-  width: 360px;
   height: 420px;
   margin: 0;
   padding: 0;
